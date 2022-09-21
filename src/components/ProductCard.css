@@ -1,0 +1,141 @@
+
+
+.card-img-top{
+    height: 300px;
+    
+}
+.price{
+    font-weight: bolder;
+    color: red;
+}
+.card-title{
+    text-align: center;
+    color: rgb(6, 28, 21);
+}
+
+.btn-primary{
+    margin-left: 60px;
+    margin-top: 35px;
+}
+
+.detail-image{
+    height: 500px;
+    margin-left: 450px;
+    margin-top: 40px;
+    width: 450px;
+}
+
+.detail-name{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: brown;
+
+}
+
+.detail-price{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(23, 13, 32);
+
+}
+
+.detail-details{
+    text-align: jus;
+    font-size: 25px;
+    opacity: 1;
+    color: rgb(143, 36, 36);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.detail-head{
+    margin-left: 300px;
+    color: rgb(238, 62, 65);
+
+}
+
+.detail-ingre{
+   margin-left: 320px;
+   color: rgb(28, 10, 109);
+   margin-right: 300px;
+   font-size: 12px;
+}
+
+.btns{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.button{
+    height: 40px;
+    width: 200px;
+    margin-left: 30px;
+    border: none;
+    background-color: beige;
+    color: rgb(46, 26, 26);
+    font-weight: bolder;
+    
+}
+
+.button:hover{
+    background-color:blueviolet;
+    color: aqua;
+}
+
+.input-box{
+    width: 500px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 420px;
+    outline: none;
+}
+
+.city{
+    width: 150px;
+    margin-left: 420px;
+    margin-top: 20px;
+    height: 40px;
+    margin-right: 10px;
+}
+.state{
+    width: 140px;
+    height: 40px;
+    margin-right: 10px;
+}
+.zip{
+    width: 190px;
+    height: 40px;
+}
+
+.payment-head{
+    text-align: center;
+    margin-top: 110px;
+}
+
+.button1{
+    margin-left: 520px;
+    margin-top: 30px;
+    margin-right: 50px;
+    width: 100px;
+    height: 40px;
+}
+
+.button2{
+    height: 40px;
+}
+
+.buttons{
+    border:  none;
+    background-color: rgb(88, 73, 102);
+    color: aqua;
+}
+.allpage{
+    background-color: rgb(238, 238, 183);
+    padding-bottom: 40px;
+    
+}
